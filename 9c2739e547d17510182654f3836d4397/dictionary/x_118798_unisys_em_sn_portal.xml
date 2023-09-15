@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2f9731a947d17510182654f3836d439a" label="SN Portal" max_length="40" name="x_118798_unisys_em_sn_portal" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Logo" max_length="1024" name="logo" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Portal Name" max_length="40" name="portal_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="URL" max_length="40" name="url" type="string"/>
+    </element>
+</database>
